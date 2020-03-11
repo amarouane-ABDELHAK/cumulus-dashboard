@@ -16,3 +16,4 @@ cypress/videos
 .vscode
 .idea/
 env.sh
+uat_dist
