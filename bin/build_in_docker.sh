@@ -48,6 +48,8 @@ EOS
 chmod +x tmp/script.sh
 
 echo "Building to $DIST"
+
+
 docker run \
   --rm \
   --volume "${DIST}:/dist" \

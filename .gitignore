@@ -17,3 +17,5 @@ cypress/videos
 .idea/
 env.sh
 uat_dist
+*_dist
+*_env.sh
